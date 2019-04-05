@@ -1,0 +1,24 @@
+## Connecting to an ownCloud server using Desktop client
+Overview
+The ownCloud Desktop Synchronization Client is used for synchronizing files with the desktop computer. As a user, you can download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page, and can run on various platforms like Microsoft Windows, Mac OS X, and variants of Linux distributions. 
+ownCloud Desktop Synchronization Client enables the user to:
+•	You can download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page
+•	You can create folders in your home directory and keep the contents of those folders synced with your ownCloud server. Simply copy a file into the directory and the ownCloud Desktop Client does the rest. 
+•	Make a change to the files on one computer, it will flow across the others using these desktop sync clients. You will always have your latest files with you wherever you are.
+Its usage is documented separately in the https://doc.owncloud.org/desktop/2.2/.
+OR
+•	 Specify one or more directories on your computer that you want to synchronize to the    ownCloud server.
+•	 Always have the latest files synchronized, wherever they are located.
+Step-by-step instructions for connecting ownCloud server
+Once you have installed the ownCloud Desktop Synchronization Client on your operating system, follow these steps to connect with your ownCloud server:
+•	Launch the ownCloud Desktop Client.
+•	In the ownCloud Connection Wizard dialog box, enter the IP address for your server. Click Next to proceed.  
+•	Enter your Username and Password and click Next.
+ 
+•	Specify whether to synchronization all of your files on the ownCloud server or only selected files. Also, specify a location for the local files to reside.
+ 
+•	Click the Connect button. The ownCloud Desktop Synchronization Client will attempt to connect to your ownCloud server. Once connected, you will see two buttons:
+o	Open ownCloud in Browser
+o	Open Local Folder
+Choose the button where you want to synchronize your files. Then click the Finish button, and you are all done.
+ 

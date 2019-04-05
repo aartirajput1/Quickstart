@@ -15,10 +15,10 @@ A drop-down menu appears with options to enter the following sections: **Persona
        ![3 2](https://user-images.githubusercontent.com/40832072/55607403-bb918600-5799-11e9-8969-038d7881824a.png)
  
 4.	Create groups based on user’s access limitations.    
-        To add groups, go to the **Groups** field. Hover over the **_+ add group field_**, enter a name for the group and hit the **Enter** button. 
+        To add groups, go to the **Groups** field. Hover over the **_+ add group field_**, enter a name for the group and hit the **Enter** button.     
     
-       ![3 3](https://user-images.githubusercontent.com/40832072/55607638-51c5ac00-579a-11e9-8b03-8dd7dbd918a8.png)    
- 
+       ![3 3](https://user-images.githubusercontent.com/40832072/55607638-51c5ac00-579a-11e9-8b03-8dd7dbd918a8.png)      
+       
 	Now you can start adding users and adding them to specific groups as per defined access	controls.  
   
 ### Adding or creating new user account
